@@ -25,14 +25,12 @@ Step 1 - Install `OBS` and set up a virtual camera
 - `Start Virtual Camera` (bottom-right corner)
     - Once the virtual camera is started, the button text becomes `Stop Virtual Camera`
 
-![Step 1](how_to_use_with_zoom/use_with_zoom_step1.png)
 
 
 Step 2 - Open Zoom and select the virtual camera 
 
 - Remember, you should select the `OBS Virtual Camera` (instead of your default webcam)
 
-![Step 2](how_to_use_with_zoom/use_with_zoom_step2.png)
 
 Step 3 - Select Gallery View in Zoom
 
@@ -41,26 +39,7 @@ Step 3 - Select Gallery View in Zoom
     - The update frequency `WAIT_SECONDS` can be adjusted in `main.py`
         - A lower value can be set for an older laptop
 
-![Step 3](how_to_use_with_zoom/use_with_zoom_step3.png)
 
-
-
-
-### Demo Screenshots
-
-Example 1 - Only 1 man on the screen
-
-![Example 1](screenshots/example1.png)
-
-Example 2 - 1 man and 1 woman on the screen 
-
-![Example 2](screenshots/example2.png)
-
-Example 3 - Multiple people on the screen
-
-- Note: The sample Zoom screenshot is downloaded from the web
-
-![Example 3](screenshots/example3.png)
 
 ## Setting up the Python environment using pyenv
 
