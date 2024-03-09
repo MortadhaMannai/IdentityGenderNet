@@ -1,0 +1,7 @@
+deepface==0.0.49
+face-recognition==1.3.0
+numpy==1.19.5
+opencv-python==4.5.1.48
+pyscreenshot==2.3
+Pillow==8.1.0
+tensorflow==2.4.1
